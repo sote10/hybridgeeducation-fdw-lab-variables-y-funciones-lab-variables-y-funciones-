@@ -2,6 +2,10 @@
 // Declara una función llamada "obtenerPI" que retorne el valor 3.1416
 
 //define tu función aquí
+function obtenerPI() {
+  const numeroPI = 3.1416;
+  return numeroPI
+}
 
 
 // No modificar
